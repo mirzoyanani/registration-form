@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  height: 100vh;
+  display: flex;
+ align-items: center;
+ justify-content: center;
+ background-color: rgba(223, 215, 215, 0.514);
+}
